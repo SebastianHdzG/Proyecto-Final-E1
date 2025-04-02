@@ -1,0 +1,27 @@
+      body{
+        background-color: #00b4fc;
+        text-align: justify;
+        font-family: sans-serif;
+      }
+
+      footer {
+         background-color: #012677;
+         color: #00b4fc;
+         text-align: center;
+         padding: 2rem;
+         border-top: 3px solid #012677;
+         margin-top: 5rem;
+      }
+      a{
+        color: #283618;
+      }
+
+      .titulo{
+        background-color: #012677;
+      }
+      .navstyle{
+              background-color: #005bc5;
+      }
+
+      /*Imagenes*/
+      

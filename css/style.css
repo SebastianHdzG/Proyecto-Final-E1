@@ -1,27 +1,66 @@
       body{
-        background-color: #00b4fc;
+        background-color: #FDF0D5;
         text-align: justify;
         font-family: sans-serif;
       }
 
       footer {
-         background-color: #012677;
-         color: #00b4fc;
+         background-color: #003049;
+         color: #FDF0D5;
          text-align: center;
          padding: 2rem;
-         border-top: 3px solid #012677;
+         border-top: 3px solid #003049;
          margin-top: 5rem;
       }
+
       a{
-        color: #283618;
+        color: #669BBC;
       }
 
+      h1, h2, h3, h4{
+        color: #669BBC;
+      }
+
+      table{
+        font-size: 20px;
+        text-align: justify;
+      }
+
+      th{
+        color: #669BBC;
+        text-align: left;
+      }
+      tr{
+        border-top: 2px solid #780000;;
+      }
+
+
+      .display-3{
+        color: #FDF0D5;
+      }
       .titulo{
-        background-color: #012677;
+        background-color: #C1121F;
       }
       .navstyle{
-              background-color: #005bc5;
+        background-color: #780000;
+      }
+      .container{
+        font-size: 20px;
+      }
+      .table{
+        background-color: ;
+        color: ;
       }
 
-      /*Imagenes*/
+      /*paleta de colores
+        
+        Rojo obscuro: #780000
+        Rojo claro: #C1121F
+        blanco crema: #FDF0D5
+        Azul oscuro: #003049
+        Azul claro: #669BBC
+
+      */
+
+
       

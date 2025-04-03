@@ -17,8 +17,15 @@
         color: #669BBC;
       }
 
-      h1, h2, h3, h4{
+      h1, h2, h3, h4, h5{
         color: #669BBC;
+      }
+
+      aside{
+         width: 25%;
+        padding: 20px;
+        margin-right: 20px;
+}
       }
 
       table{
@@ -38,6 +45,8 @@
 
       .display-3{
         color: #FDF0D5;
+        text-align: left;
+
       }
       .titulo{
         background-color: #C1121F;
@@ -48,9 +57,9 @@
       .container{
         font-size: 20px;
       }
-      .table{
-        background-color: ;
-        color: ;
+      .card-body{
+        background-color: #f0efeb;
+        
       }
 
       /*paleta de colores
@@ -60,6 +69,7 @@
         blanco crema: #FDF0D5
         Azul oscuro: #003049
         Azul claro: #669BBC
+        Azul de las cards: #f0efeb
 
       */
 

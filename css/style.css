@@ -19,17 +19,17 @@
 
       h1, h2, h3, h4, h5{
         color: #669BBC;
+        font-weight: bold;
       }
 
       aside{
-         width: 25%;
+        width: 25%;
         padding: 20px;
         margin-right: 20px;
 }
       }
 
       table{
-        font-size: 20px;
         text-align: justify;
       }
 
@@ -55,13 +55,25 @@
         background-color: #780000;
       }
       .container{
-        font-size: 20px;
+        font-size: 22px;
       }
       .card-body{
         background-color: #f0efeb;
-        
+        border-radius: 10%;
+      }
+      .card{
+        border-radius: 10%;
+        height: 100%;
+      }
+      .btn{
+        background-color: #003049;
+        color: #FDF0D5;
       }
 
+      .titulo p{
+        font-size: 22px;
+        color: #f0efeb;
+      }
       /*paleta de colores
         
         Rojo obscuro: #780000

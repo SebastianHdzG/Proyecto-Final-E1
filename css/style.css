@@ -1,7 +1,8 @@
+    
       body{
         background-color: #FDF0D5;
         text-align: justify;
-        font-family: sans-serif;
+        font-family: serif;
       }
 
       footer {
@@ -26,8 +27,8 @@
         width: 25%;
         padding: 20px;
         margin-right: 20px;
-}
       }
+      
 
       table{
         text-align: justify;
@@ -43,7 +44,7 @@
       }
 
 
-      .display-3{
+      .display-2{
         color: #FDF0D5;
         text-align: left;
 
@@ -54,8 +55,9 @@
       .navstyle{
         background-color: #780000;
       }
+      /*Para modificar todo lo que esta dentro del container*/
       .container{
-        font-size: 22px;
+        font-size: 23px;
       }
       .card-body{
         background-color: #f0efeb;
@@ -65,13 +67,15 @@
         border-radius: 10%;
         height: 100%;
       }
+      /*Botones de las cartas*/
       .btn{
         background-color: #003049;
         color: #FDF0D5;
       }
 
+      /*Subtitulo del envabezado*/
       .titulo p{
-        font-size: 22px;
+        font-size: 23px;
         color: #f0efeb;
       }
       /*paleta de colores
@@ -84,6 +88,5 @@
         Azul de las cards: #f0efeb
 
       */
-
 
       

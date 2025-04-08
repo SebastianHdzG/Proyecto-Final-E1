@@ -30,17 +30,15 @@
       }
       
 
-      table{
-        text-align: justify;
-      }
-
       th{
         color: #669BBC;
         text-align: left;
+        border-top: 2px solid #415A77;
+        border-bottom: 2px solid #415A77;
       }
       tr{
-        border-top: 2px solid #780000;
-        border-bottom: 2px solid #780000;
+        border-top: 2px solid #415A77;
+        border-bottom: 2px solid #415A77;
       }
 
 
@@ -79,8 +77,8 @@
         color: #f0efeb;
 
       }
-      .table{
-        margin: 0 auto;
+      
+     
       }
       /*paleta de colores
         

@@ -58,6 +58,7 @@
       /*Para modificar todo lo que esta dentro del container*/
       .container{
         font-size: 23px;
+         margin: 0 auto;
       }
       .card-body{
         background-color: #f0efeb;
@@ -77,6 +78,10 @@
       .titulo p{
         font-size: 23px;
         color: #f0efeb;
+
+      }
+      .table{
+        margin: 0 auto;
       }
       /*paleta de colores
         

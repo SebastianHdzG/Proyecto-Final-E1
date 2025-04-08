@@ -1,12 +1,12 @@
     
       body{
-        background-color: #FDF0D5;
+        background-color: #E0E1DD;
         text-align: justify;
         font-family: serif;
       }
 
       footer {
-         background-color: #003049;
+         background-color: #0D1B2A;
          color: #FDF0D5;
          text-align: center;
          padding: 2rem;
@@ -50,18 +50,17 @@
 
       }
       .titulo{
-        background-color: #C1121F;
+        background-color: #415A77;
       }
       .navstyle{
-        background-color: #780000;
+        background-color: #1B263B;
       }
       /*Para modificar todo lo que esta dentro del container*/
-      .container{
+      .container, .container-fluid{
         font-size: 23px;
          margin: 0 auto;
       }
       .card-body{
-        background-color: #f0efeb;
         border-radius: 10%;
       }
       .card{
@@ -85,9 +84,11 @@
       }
       /*paleta de colores
         
-        Rojo obscuro: #780000
-        Rojo claro: #C1121F
-        blanco crema: #FDF0D5
+        URL: https://coolors.co/palette/0d1b2a-1b263b-415a77-778da9-e0e1dd
+
+        Azul Oscuro (nav): #0D1B2A
+        Azul oscuro (footer): #1B263B
+        azul crema (fondo): #E0E1DD
         Azul oscuro: #003049
         Azul claro: #669BBC
         Azul de las cards: #f0efeb
